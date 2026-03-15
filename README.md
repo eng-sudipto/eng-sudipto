@@ -1,3 +1,5 @@
+![My-background-image](image/bammer_main_2.jpg)
+
 # Hi there! I am Sudipto Das.
 
 **Lead Front-End Engineer | React, Next.js, JS & TS | Bridging UI/UX Architecture with Scalable Styling (Sass & Tailwind CSS)**
@@ -7,11 +9,15 @@ As a Lead Front-End Engineer with over 3 years of hands-on experience in web dev
 
 ### What I Build:
 Throughout my career, I have focused on architecting and developing large-scale web applications. With my core expertise in State, Logic, Real-time Data Visualization, API Integration, Design & UI/UX, I can build a high-traffic E-commerce platform, scalable SaaS products or a Travel Booking or Weather App. Whether I am building complex front-end structures or making sure a design looks perfect across different products, my goal is always to provide the best possible experience for the user.
+<br>
+<br>
 
 ![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,nodejs,redux,jquery,regex,html,css,tailwind,sass,bootstrap,git)
 
 ### Other:
-![My Skills](https://skillicons.dev/icons?i=figma,wordpress,photoshop,github)
+![My Skills](https://skillicons.dev/icons?i=figma,wordpress,photoshop,github,md)
+
+<br>
 
 ### Why My Tech Stack?
 I choose the modern JavaScript ecosystem like React, Next.js, JS, and TypeScript because it offers the perfect balance of performance, maintainability, and future-proofing.
